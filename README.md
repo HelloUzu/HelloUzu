@@ -1,4 +1,1 @@
-<br align="center">![Gojo Vs Sukuna](https://media.tenor.com/lviRPgFV-R0AAAAC/satoru-gojo-gojo-vs-sukuna.gif)</br>
-<p align="center">
-    
-</h1>
+<p align="center"><img src="https://media.tenor.com/lviRPgFV-R0AAAAC/satoru-gojo-gojo-vs-sukuna.gif"></p>
