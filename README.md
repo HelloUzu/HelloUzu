@@ -2,4 +2,4 @@
 <h1 align="center"> 👋 Yo! I'm Uzu! </h1> 
 
 ![HelloUzu Status](https://github-readme-stats.vercel.app/api?username=hellouzu&theme=shadow_green&show_icons=true)
-[![Melhores Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hellouzu&theme=shadow_green&show_icons=true)](https://github.com/hellouzu/github-readme-stats)
+[![Melhores Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hellouzu&theme=shadow_green)](https://github.com/hellouzu/github-readme-stats)
