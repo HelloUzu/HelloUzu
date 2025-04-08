@@ -1,7 +1,7 @@
 <h1></h1>
 <h1 align="center"> 👋 Yo! I'm Uzu! </h1> 
 <h2 align="center"> 🤡 I'm just *Cu210u5 Boy! </h2> 
-<p align="center"><img src="https://media.tenor.com/lviRPgFV-R0AAAAC/satoru-gojo-gojo-vs-sukuna.gif"></p>
+<p align="center"><img width = 500 src="https://www.google.com/imgres?q=guts%20walking%20gif%20walpapper&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F2d%2F82%2Fd9%2F2d82d901304ed14d0ea5d44c6d12dbac.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F920141767598500568%2F&docid=xvxFBed5ZuUDZM&tbnid=aRktD1peQiJdaM&w=640&h=360&hcb=2"></p>
 <br></br>
 
 <p align="center">
