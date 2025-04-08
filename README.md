@@ -1,7 +1,7 @@
 <h1></h1>
 <h1 align="center"> 👋 Yo! I'm Uzu! </h1> 
 <h2 align="center"> 🤡 I'm just *Cu210u5 Boy! </h2> 
-<p align="center"><img width = 500 src="miyamoto.gif"></p>
+<p align="center"><img width = 500 src="meme.gif"></p>
 <br></br>
 
 <p align="center">
