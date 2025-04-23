@@ -1,4 +1,4 @@
-<h1></h1>
+<h2></h2>
 <h1 align="center"> 👋 Yo! I'm Uzu! </h1> 
 <h2 align="center"> 🤡 I'm just *Cu210u5 Boy! </h2> 
 <h2 align ="center">💥 In my bio you can see the things that interest me! </h2>
