@@ -1,21 +1,28 @@
-<h2></h2>
-<h1 align="center"> 👋 Yo! I'm Uzu! </h1> 
-<h2 align="center"> 🤡 I'm just *Cu210u5 Boy! </h2> 
-<h2 align ="center">💥 In my bio you can see the things that interest me! </h2>
-<p align="center"><img width = 500 src="meme.gif"></p>
-<br></br>
+<h3> 👋 Yo! I'm Uzu! </h3> 
+<h3> 🤡 I'm just *Cu210u5 Boy! </h3>
+<h3> 💥 In my bio you can see the things that interest me! </h3>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <br></br>
-    <img src="https://img.shields.io/badge/Vim-019733.svg?style=for-the-badge&logo=Vim&logoColor=white">
-    <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=Sublime-Text&logoColor=white">
-  <br></br>
-    <img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <br></br>
-    <img src="https://github-readme-stats.vercel.app/api?username=hellouzu&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellouzu&theme=tokyonight">
-</p>
+<p align="center"><img width = 400 src="meme.gif"></p>
+
+## 👾 Tecnologies:
+
+### 🚀 Operational Systems:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### 📦 Code Editing:
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
+### 🤖 Favorite Languages: 
+![Assembly](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![CPP](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🛠️ Github Stats: 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hellouzu&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellouzu&theme=tokyonight">
+</div>
+
