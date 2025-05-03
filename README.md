@@ -1,10 +1,10 @@
 #
 
-<h3> 👋 Yo! I'm Uzu! </h3> 
-<h3> 🤡 I'm just *Cu210u5 Boy! </h3>
-<h3> 💥 In my bio you can see the things that interest me! </h3>
-
-#
+<div align="center">
+  <h3>👋 Yo! I'm Uzu!</h3>
+  <h3> 🤡 I'm just *Cu210u5 Boy! </h3>
+  <h3> 💥 In my bio you can see the things that interest me! </h3>
+</div>
 
 <p align="center"><img width = 400 src="meme.gif"></p>
 
@@ -12,8 +12,8 @@
 
 #### _```🚀 - Operational Systems:```_
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 #
