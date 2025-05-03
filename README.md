@@ -32,8 +32,8 @@
 
 #### _```🔥 - Github Stats:```_ 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellouzu&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellouzu&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=hellouzu&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellouzu&theme=dark">
 </div>
 
 #
