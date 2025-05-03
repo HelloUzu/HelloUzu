@@ -23,14 +23,14 @@
 
 #
 
-#### _```🤖 - Favorite Languages:```_
+#### _```👾 - Favorite Languages:```_
 ![Assembly](https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![CPP](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 #
 
-#### _```🛠️ - Github Stats:```_ 
+#### _```🔥 - Github Stats:```_ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hellouzu&theme=tokyonight">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellouzu&theme=tokyonight">
