@@ -1,6 +1,6 @@
-<h3> 👋 Yo! I'm Uzu! </h3> 
-<h3> 🤡 I'm just *Cu210u5 Boy! </h3>
-<h3> 💥 In my bio you can see the things that interest me! </h3>
+<h2> 👋 Yo! I'm Uzu! </h2> 
+<h2> 🤡 I'm just *Cu210u5 Boy! </h2>
+<h2> 💥 In my bio you can see the things that interest me! </h2>
 
 <p align="center"><img width = 400 src="meme.gif"></p>
 
